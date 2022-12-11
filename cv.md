@@ -22,7 +22,7 @@
 * #### JavaScript (in progress)
 * #### VS Code
 * #### Figma, Adobe PS
-* #### Blender, 3dsMax
+* #### Blender, 3dsMax, Substance Painter
 
 
 ## Code Example
