@@ -1,14 +1,15 @@
 # Dmitry Krasnov
 
-## Junior Frontend Developer
 
+## Junior Frontend Developer
 
 ## Contact me:
 * #### **Email:** krasnovdimitry@gmail.com
 * #### **Telegram:** @da_krasnov
 * #### **GitHub:** @kradale
 
-### About myself:
+
+## About myself:
 
 #### Currently I am a BI-analyst in Goodt. It is BI-platform on low-code development. My tasks - preparation and connection data, thinking through the functionality, create dashboards. 
 
@@ -31,6 +32,7 @@ I am just started learn JS.
 Right now I can't show you some cool code.
 I am update this paragraph later)
 ``` 
+
 
 ## Courses:
 
